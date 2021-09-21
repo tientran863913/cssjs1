@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://www.facebook.com/trankimtien.vn.zaiiidepbanbds/';
+	var url_popup = 'http://trankimtien.vn/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
